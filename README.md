@@ -85,4 +85,4 @@ pipenv run python AFM_Cw1_SDE2.py
 - **num_steps** - time steps
 - **num_paths** - number of trials
 
-This repository provides a structured and efficient implementation of Monte Carlo-based option pricing, leveraging variance reduction techniques and discretization methods to improve convergence and accuracy. It serves as a valuable resource for financial modeling and quantitative analysis.
+This repository provides a structured and efficient implementation of Monte Carlo-based option pricing, leveraging variance reduction techniques and discretization methods to improve convergence and accuracy.
